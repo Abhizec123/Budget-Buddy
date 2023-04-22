@@ -51,7 +51,8 @@ Currently the No of Users on a particular device(where the Software is installed
 
 Reason: The Project is created using Basic MySQL Concepts.
 
-Any fix: It can be easily fixed by adding Sign Up and Login Section for multiple users when using the Software on the same device.
+Any fix: It can be easily fixed by adding Sign Up and Login Section for multiple users when using the 
+         Software on the same device.
 
 Why is it not fixed? - will be fixed as soon as my MySQL Concepts would be clear to work on this module.
 ```
