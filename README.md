@@ -4,7 +4,7 @@
 ## ABOUT:
 
 ```
-So basically, it a Desktop-Based Application, created using the concepts of Core Java and MySQL in 
+So basically, it is a Desktop-Based Application, created using the concepts of Core Java and MySQL in 
 NetBeans which is capable To keep a record of one's Daily Expenses.
 ```
 
