@@ -4,19 +4,22 @@
 ## ABOUT:
 
 ```
-So basically, it a Desktop-Based Application, created using the concepts of Core Java and MySQL in NetBeans which is capable To
-keep a record of one's Daily Expenses.
+So basically, it a Desktop-Based Application, created using the concepts of Core Java and MySQL in 
+NetBeans which is capable To keep a record of one's Daily Expenses.
 ```
 
 ## FEATURES & ADVANTAGES:
 
 ```
-1. Users can easily add expenses and different categories such as groceries, entertainment, transportation, etc. 
-2. The app keeps a record of all the expenses entered by the user and displays them in an easy-to-read format.
+1. Users can easily add expenses and different categories such as groceries, entertainment, 
+   transportation, etc. 
+2. The app keeps a record of all the expenses entered by the user and displays them in an 
+   easy-to-read format.
 3. The app also provides a feature that shows the user their last 30 days' spending. 
-4. This helps the user to track their spending patterns and identify areas where they can cut back on expenses.
-5. By having a clear picture of their spending habits, users can make informed decisions on their spending and manage their 
-   finances better.
+4. This helps the user to track their spending patterns and identify areas where they can 
+   cut back on expenses.
+5. By having a clear picture of their spending habits, users can make informed decisions on 
+   their spending and manage their finances better.
 ```
 
 ## HOW TO RUN:
@@ -26,7 +29,8 @@ keep a record of one's Daily Expenses.
 2. Extract the folder in your Preferred location
 3. Open NetBeans IDE (Recommended)
 4. Go to file and click on Open Project
-5. Go to the path where you have extracted the project and then select the Extracted Folder and double click it
+5. Go to the path where you have extracted the project and then select the Extracted 
+   Folder and double click it
 6. Now, select the Project and click Open
 7. It wil be configured in your IDE
 8. Now, just right-click the project and click on run file
