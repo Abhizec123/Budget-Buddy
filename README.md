@@ -31,7 +31,7 @@ NetBeans which is capable To keep a record of one's Daily Expenses.
 4. Go to file and click on Open Project
 5. Go to the path where you have extracted the project and then select the Extracted 
    Folder and double click it
-6. Now, select the Project and click Open
+6. Now, select the Project(ExpenseTracker) and click Open
 7. It wil be configured in your IDE
 8. Now, just right-click the project and click on run file
 9. Thats it! the Software Opens
