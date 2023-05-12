@@ -57,8 +57,8 @@ user interfaces (GUI) for desktop applications. You were able to create a user-f
 allowed users to interact with the application easily.
 
 Handling Date Formats in Java: I gained knowledge in handling dates and formatting them in a way that is 
-easily understandable by users. I was able to implement this functionality in my application to display the 
-last 30 days' spending.
+easily understandable by users. I was able to implement this functionality in my application to display 
+the last 30 days' spending.
 
 Handling Edge Cases: During the development of my project, I encountered various edge cases and 
 learned how to handle them appropriately. This included scenarios such as handling user input errors, 
