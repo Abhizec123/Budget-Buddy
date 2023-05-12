@@ -44,3 +44,24 @@ An Overview of the working of the project.
 PS NOTE: The video don't have any type of Explaination. 
 ```
 
+## WHAT HAVE I LEARNT FROM THE PROJECT:
+
+```
+From the project, I learned several important skills and concepts including:
+
+CRUD Operations in SQL: I gained experience in creating, reading, updating, and deleting data from a 
+database using SQL queries.
+
+Concepts of Swing in Java: I learned about the Swing framework in Java, which is used to develop graphical
+user interfaces (GUI) for desktop applications. You were able to create a user-friendly interface that allowed 
+users to interact with the application easily.
+
+Handling Date Formats in Java: I gained knowledge in handling dates and formatting them in a way that is 
+easily understandable by users. I was able to implement this functionality in my application to display the 
+last 30 days' spending.
+
+Handling Edge Cases: During the development of my project, I encountered various edge cases and 
+learned how to handle them appropriately. This included scenarios such as handling user input errors, 
+dealing with proper date selection range, and preventing data loss.
+```
+
