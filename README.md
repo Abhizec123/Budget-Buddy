@@ -53,8 +53,8 @@ CRUD Operations in SQL: I gained experience in creating, reading, updating, and 
 database using SQL queries.
 
 Concepts of Swing in Java: I learned about the Swing framework in Java, which is used to develop graphical
-user interfaces (GUI) for desktop applications. You were able to create a user-friendly interface that allowed 
-users to interact with the application easily.
+user interfaces (GUI) for desktop applications. You were able to create a user-friendly interface that
+allowed users to interact with the application easily.
 
 Handling Date Formats in Java: I gained knowledge in handling dates and formatting them in a way that is 
 easily understandable by users. I was able to implement this functionality in my application to display the 
